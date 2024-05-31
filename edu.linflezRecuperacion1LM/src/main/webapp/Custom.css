@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+.fondo1{
+	text-align: center;
+	background-color: skyblue;
+}
+
+
+.final{
+	
+	background-color: black;
+}
+.numeros{
+	
+	color: white;
+	
+}
+.nombre{
+	
+	color: black;
+	
+	
+}
+.tabla{
+	
+	border-color: black;
+}
